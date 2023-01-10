@@ -14,3 +14,8 @@ p{
 strong{
     color: red;
 }
+header{
+    height: 450px;
+    width: 100%;
+    color: orange;
+}
